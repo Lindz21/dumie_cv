@@ -63,6 +63,7 @@ class CVPage extends StatelessWidget {
 
                   Text('IT Student'),
 
+
                   SizedBox(height: 15),
 
                   Text(
